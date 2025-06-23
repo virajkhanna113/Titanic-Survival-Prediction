@@ -12,18 +12,17 @@ The test set should be used to see how well your model performs on unseen data. 
 We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
 # Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
 
 # Algorithms
-Logistic Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
+Logistic Regression,
+Decision Tree,
+Random Forest,
+Extra Tress,
+XGBoost,
 LightGBM
-CatBoost
 
 **Best Model Accuracy:** 82.38%
