@@ -26,4 +26,4 @@ XGBoost
 LightGBM
 CatBoost
 
-**Best Model Accuracy: 82.38%
+**Best Model Accuracy:** 82.38%
